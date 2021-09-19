@@ -3,4 +3,6 @@ Exemplo e exercícios do livro "Introdução à programação com Python" do Nil
 
 Paginas usadas:
 
+65,66
+
 Topicos interessantes:
